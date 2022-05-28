@@ -1,4 +1,4 @@
-- Strogonoff de frango :man_cook:
+# Strogonoff de frango :man_cook:
 
 ### Ingredientes
  - 3 peitos de frango cortados em cubos
